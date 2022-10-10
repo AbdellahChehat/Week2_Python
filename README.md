@@ -50,7 +50,7 @@ print (uk_resident)
 10.    Once completed you’ll need to push work onto gitHub
  
  
-How to push work onto GitHub
+## How to push work onto GitHub
  
  
 1.     Save work of Pycharm 
@@ -60,3 +60,10 @@ How to push work onto GitHub
 5.     git add . 
 6.     git commit -m “update”
 7.     git push -u origin main
+
+
+## Diagram
+<img width="560" alt="Screenshot 2022-10-10 at 16 53 41" src="https://user-images.githubusercontent.com/115224560/194906901-a358ae44-e524-49c8-8d8f-84f08e079111.png">
+
+
+- 
